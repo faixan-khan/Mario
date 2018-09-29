@@ -1,0 +1,17 @@
+global board
+board = [] 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
